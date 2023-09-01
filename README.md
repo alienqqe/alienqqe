@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Frontend development.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can contact me on [Instagram](https://www.instagram.com/sichkadenys/) I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://portfolio-one-sepia-31.vercel.app/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please take a look at my [Portfolio](https://portfolio-one-sepia-31.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
