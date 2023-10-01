@@ -31,8 +31,6 @@
 
 <p align="center">
 <a href="https://twitter.com/DenisSicka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="sickadenis@gmail.com"><img src="https://img.shields.io/badge/-sickadenis@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sichkadenys"><img src="https://img.shields.io/badge/-sichkadenys_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
