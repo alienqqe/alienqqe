@@ -5,7 +5,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Frontend development.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can contact me on my email(sickadenis@gmail.com) or in another social media. I'll try to respond as soon as I can.\
 📄 &nbsp;Please take a look at my [Portfolio](https://portfolio-one-sepia-31.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
